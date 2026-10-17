@@ -1,0 +1,13 @@
+{
+  "name": "task-anchor",
+  "owner": {
+    "name": "pquattro"
+  },
+  "plugins": [
+    {
+      "name": "task-anchor",
+      "source": "./"
+    }
+  ],
+  "description": "Claude Code mod that keeps long sessions on track by tracking drift from the session goal."
+}

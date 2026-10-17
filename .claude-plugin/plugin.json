@@ -1,0 +1,1 @@
+{ "name": "task-anchor", "version": "0.1.0", "description": "Keeps the session's goal in view: tracks topic drift from prompts, shows a focus band, and re-anchors the model on the goal.", "types": "./types/index.d.ts" }
